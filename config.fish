@@ -1,5 +1,5 @@
 # --- 1. Remove the Welcome Message ---
-set -g fish_greeting ""
+set -g fish_greeting "Let's start"
 
 # --- 2. Useful Aliases for your Labs ---
 # Navigation
